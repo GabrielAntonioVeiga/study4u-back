@@ -1,6 +1,8 @@
 # study4u-back
 Backend project designed to manage classrooms and educational content
 
+The frontend project can be found [here](https://github.com/Rafaells-dv/study4u-front.git)
+
 # Technologies and Dependencies Used
 - **Java 17**
 - **Maven** used as a dependency management tool.
